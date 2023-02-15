@@ -13,9 +13,10 @@ php: Aktifkan xampp lalu ketik di browser localhost/(nama folder)
 Code yang saya buat menggunakan 3 kelas dan merupakan inheritance multilevel yaitu Human, Sivitas Akademik, dan Mahasiswa
 
 Adapun atribut yang digunakan yaitu:
-● Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
-● Human: NIK, nama, jenis_kelamin
-● SivitasAkademik: asal_universitas, email_edu
+
+- Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
+- Human: NIK, nama, jenis_kelamin
+- Sivitas Akademik: asal_universitas, email_edu
 
 Alur program:
 - Buat class lalu diisi atribut baik private maupun public, atribut sesuai dengan kelas yg disebutkan diatas
