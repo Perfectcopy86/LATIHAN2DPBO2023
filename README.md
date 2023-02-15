@@ -18,6 +18,7 @@ Adapun atribut yang digunakan yaitu:
 - Sivitas Akademik: asal_universitas, email_edu
 - Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
 
+Untuk Pewarisan nya saya gunakan Human sebagai parent utama, lalu anak pertamanya yaitu sivitas akademik karena sivitas akademik merupakan human, lalu child dari sivitas akademik adalah Mahasiswa karena mahasiswa adalah bagian dari sivitas akademik 
 
 
 Alur program:
