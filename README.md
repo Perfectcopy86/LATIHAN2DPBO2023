@@ -14,9 +14,11 @@ Code yang saya buat menggunakan 3 kelas dan merupakan inheritance multilevel yai
 
 Adapun atribut yang digunakan yaitu:
 
-- Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
 - Human: NIK, nama, jenis_kelamin
 - Sivitas Akademik: asal_universitas, email_edu
+- Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
+
+
 
 Alur program:
 - Buat class lalu diisi atribut baik private maupun public, atribut sesuai dengan kelas yg disebutkan diatas
