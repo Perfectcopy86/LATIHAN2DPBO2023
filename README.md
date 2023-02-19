@@ -30,11 +30,17 @@ Alur program:
 - Terakhir, jika user memilih menu yg tidak disediakan maka akan invalid, lalu jika user memilih keluar maka akan berhenti programnya
 
 1. Tampilan menu
-![1  Tampilan menu](https://user-images.githubusercontent.com/100756215/218926194-5dba6e66-1ab3-423c-b9f3-2ff309670c39.png)
+![1 Tampilan Menu ](https://user-images.githubusercontent.com/100756215/219922371-a23a0320-ae89-4c87-a20d-48712e37b39a.png)
 
 2. Masukan data
-![2  Masukan data](https://user-images.githubusercontent.com/100756215/218926278-c131660e-4b65-490b-8084-0bbb2fe6a1fa.png)
+![2  Masukan data](https://user-images.githubusercontent.com/100756215/219922381-7564140b-2995-49e0-bdf3-fb144ebfdd19.png)
 
-3. Tampil data dan keluar program
-![3  Tampilan data dan keluar program](https://user-images.githubusercontent.com/100756215/218926352-96274e81-f2a1-4937-beca-85687cbf8dcb.png)
+
+3. Tampil data
+![3  Tampilan data](https://user-images.githubusercontent.com/100756215/219922388-aa55428c-b3b7-4ab5-9a65-1c0a65b39f4e.png)
+
+4. Keluar Program
+![4  Keluar](https://user-images.githubusercontent.com/100756215/219922401-86159da3-645f-4dd5-9907-4c0c1eab999b.png)
+
+
 
