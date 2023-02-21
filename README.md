@@ -20,6 +20,10 @@ Adapun atribut yang digunakan yaitu:
 
 Untuk Pewarisan nya saya gunakan Human sebagai parent utama, lalu anak pertamanya yaitu sivitas akademik karena sivitas akademik merupakan human, lalu child dari sivitas akademik adalah Mahasiswa karena mahasiswa adalah bagian dari sivitas akademik 
 
+Berikut UML class diagram nya:
+
+![UML](https://user-images.githubusercontent.com/100756215/220282970-ae0cbd9d-9561-4392-b044-97b0c1aaedac.png)
+
 
 Alur program:
 - Buat class lalu diisi atribut baik private maupun public, atribut sesuai dengan kelas yg disebutkan diatas
@@ -41,6 +45,10 @@ Alur program:
 
 4. Keluar Program
 ![4  Keluar](https://user-images.githubusercontent.com/100756215/219922401-86159da3-645f-4dd5-9907-4c0c1eab999b.png)
+
+Tampilan untuk bahasa PHP:
+![1  Tampilan akhir](https://user-images.githubusercontent.com/100756215/220283078-91eea9d4-6f6c-44bd-8e7e-0ba80a91a5ef.png)
+
 
 
 
