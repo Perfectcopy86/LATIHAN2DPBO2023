@@ -22,7 +22,8 @@ Untuk Pewarisan nya saya gunakan Human sebagai parent utama, lalu anak pertamany
 
 Berikut UML class diagram nya:
 
-![UML](https://user-images.githubusercontent.com/100756215/220282970-ae0cbd9d-9561-4392-b044-97b0c1aaedac.png)
+![UML](https://user-images.githubusercontent.com/100756215/220283414-2ef49a2b-e86d-49bc-a58c-d257ebe62789.png)
+
 
 
 Alur program:
